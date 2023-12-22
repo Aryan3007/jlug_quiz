@@ -92,6 +92,11 @@
     height: 100%;
     text-align: center;
   }
+  @media (max-width: 768px) {
+    form{
+      padding: 0 5px;
+    }
+  }
   
   input,select {
     background-color: #eee;

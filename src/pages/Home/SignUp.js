@@ -13,7 +13,7 @@ function SignUpForm() {
   const [formData, setFormData] = useState({
     fullName: "",
     password: "",
-    domain: "",
+    domain: "", 
     email: "",
     branch: "",
   });
